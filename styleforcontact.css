@@ -1,0 +1,57 @@
+body{
+    margin: 0px !important;
+    padding: 0px !important;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.linkedin a:hover{
+    color: blue !important;
+    cursor: pointer;
+}
+
+.linkedin a{
+    padding-left: 10px;
+    
+}
+.linkedin img{
+    padding-top: 10px;
+}
+
+.center1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 320px;
+    background: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    border-color: red;
+    padding: 0px 10px;
+}
+
+.email p{
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+    font-weight: 1000 !important;
+}
+
+
+/* For Forget */
+.main{
+    text-align: center;
+}
+
+.main p{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.second p{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
