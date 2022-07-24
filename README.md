@@ -4,18 +4,21 @@
 # PlantsClub Inerface 😄
 ### Home page (Desktop View)
 
-![home](https://user-images.githubusercontent.com/96789493/180618090-e3472023-9e16-402f-b036-14efc239aabb.png)
-![home2](https://user-images.githubusercontent.com/96789493/180618118-8f140e6e-8cd5-430c-806d-0fc069806592.png)
-![home3](https://user-images.githubusercontent.com/96789493/180618122-8483efd6-5e8a-4999-b5e3-3f3466697ea7.png)
+![home1](https://user-images.githubusercontent.com/96789493/180644427-dcc264d9-54a2-436e-9b83-20f51f3ad1e3.png)
+![home2](https://user-images.githubusercontent.com/96789493/180644431-72709bfb-788a-40a1-96a2-42122d9feb77.png)
+![home3](https://user-images.githubusercontent.com/96789493/180644436-ea059f10-4df3-4c8a-8717-edced59910f2.png)
 
 ### Login Page (Mobile View)
-![loginp](https://user-images.githubusercontent.com/96789493/180618176-87ece32f-2d60-4242-9af8-d6438597b50e.png)
+
+![login](https://user-images.githubusercontent.com/96789493/180644447-9cd762ab-a78c-4e15-b9cc-9249ef1c380c.png)
 
 ### Sign Up Page (Mobile View)
 
-![sign](https://user-images.githubusercontent.com/96789493/180618201-3d237988-db0d-4f13-b81e-9e6861570d59.png)
+![signup](https://user-images.githubusercontent.com/96789493/180644451-2b937567-841d-4a19-a0fb-6129a5a18bfa.png)
+
 
 ### Contact Me
-![cont](https://user-images.githubusercontent.com/96789493/180618218-42265158-dff7-451c-b890-dc4a2c815037.png)
+![contact](https://user-images.githubusercontent.com/96789493/180644455-8c9a898a-32e9-4612-823d-6ab0fdc8cfb6.png)
+
 
 ## There are some Future scope I have in mind to improve the service.
