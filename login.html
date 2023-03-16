@@ -1,38 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="stylesheet" href="styleforlogin.css" />
-    <!-- <link
+    <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
-    /> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PlantsClub-Login</title>
-</head>
-<body>
+  </head>
+  <body>
     <div class="center1">
-        <h1>Login</h1>
-        <form method="post">
-            <div class="txt_field">
-                <input type="text" required>
-                <label>Username</label>
-                <span></span>
-            </div>
-            <div class="txt_field">
-                <input type="password" required>
-                <label>Password</label>
-                <span></span>
-            </div>
-            <div class="forget">
+      <h1>Login</h1>
+      <form onsubmit="onLoginUser()" method="get">
+        <div class="txt_field">
+          <input type="text" required id="username" />
+          <label>Username</label>
+          <span></span>
+        </div>
+        <div class="txt_field">
+          <input type="password" required id="pass" />
+          <label>Password</label>
+          <span></span>
+        </div>
+        <!-- <div class="forget">
                 <a class="forget" href="forget.html">Forget Password?</a>
-            </div>
-            <input type="submit" value="Login">
-            <div class="sign_Up">Create an account? <a href="signup.html">SignUp</a></div>
-        </form>
+            </div> -->
+        <div class="logBtn"><button class="btn btn-primary" id="loginBtn">Login</button></div>
+      </form>
+      <div class="sign_Up">
+        Create an account? <a href="signup.html">SignUp</a>
+      </div>
     </div>
-</body>
+    <script src="main.js"></script>
+  </body>
 </html>
