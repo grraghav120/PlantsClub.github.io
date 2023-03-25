@@ -19,8 +19,6 @@ Click [Here](https://grraghav120.github.io/PlantsClub.github.io/)
 ![signup](https://user-images.githubusercontent.com/96789493/180644451-2b937567-841d-4a19-a0fb-6129a5a18bfa.png)
 
 
-### Contact Me
-![contact](https://user-images.githubusercontent.com/96789493/180644455-8c9a898a-32e9-4612-823d-6ab0fdc8cfb6.png)
 
 
 ## There are some Future scope I have in mind to improve the service.
