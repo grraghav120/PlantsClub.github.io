@@ -20,5 +20,5 @@ Click [Here](https://grraghav120.github.io/PlantsClub.github.io/)
 
 
 
-
+We are still working on Cart option..
 ## There are some Future scope I have in mind to improve the service.
